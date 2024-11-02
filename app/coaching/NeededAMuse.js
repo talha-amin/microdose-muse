@@ -20,7 +20,7 @@ const NeededAMuse = () => {
             />
             {/* Overlay */}
             <div className='absolute inset-0 bg-[#00000033] z-10' />
-            <div className='relative z-20 max-w-[850px] mx-auto w-full text-white px-4'>
+            <div className='relative z-20 max-w-[850px] mx-auto w-full text-white px-4' data-aos="fade-up">
                 <p className='text-[18px] sm:text-[22px] sm:leading-[33px] text-center font-poppins font-[300]'>I felt trapped by my life. My career, my thoughts, my commitments: they were all in service of something other than myself.</p>
                 <p className='text-[18px] sm:text-[22px] sm:leading-[33px] text-center font-poppins py-8 font-[300]'>My life didn’t look or feel the way I desired.</p>
                 <p className='text-[18px] sm:text-[22px] sm:leading-[33px] text-center font-poppins font-[300]'>What began as a slow realization soon became a profound awakening: choosing the life and thoughts I wanted was possible.</p>

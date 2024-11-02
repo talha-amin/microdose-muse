@@ -7,7 +7,7 @@ const Thrive = () => {
         <Image src='/assets/top-thrive.svg' alt='thrive' width={271.5} height={174} className='w-[150px] sm:w-[271px] absolute -top-0 -right-0 '/>
         <Image src='/assets/bottom-thrive.svg' alt='thrive' width={271.5} height={174} className='w-[150px] sm:w-[271px] absolute bottom-0 left-0'/>
         {/* Content */}
-        <div className='relative z-20 w-full max-w-[1121px] mx-auto text-center'>
+        <div className='relative z-20 w-full max-w-[1121px] mx-auto text-center'data-aos="fade-up">
             <h1 className='text-[30px] sm:text-[40px] font-alethia font-normal text-[#454545] sm:leading-[64px]'>THRIVE</h1>
             <h3 className='text-[16px] sm:text-[18px] font-normal text-[#454545] leading-[28.8px] sm:mt-1.5'>1:1 Coaching</h3>
             <h3 className='text-[16px] sm:text-[18px] font-normal text-[#454545] leading-[28.8px] sm:mt-1.5'>(a 3 month-container)</h3>

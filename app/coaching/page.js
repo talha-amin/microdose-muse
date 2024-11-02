@@ -46,18 +46,18 @@ const Coaching = () => {
 
             <div className='bgcommitted-to-helping w-full py-[50px]'>
                 <div className='bg-image-five w-full py-[50px] sm:py-[70px] px-4'>
-                    <p className='text-white text-[25px] sm:text-[28px] sm:leading-[51.2px] font-alethia font-normal max-w-[1000px] mx-auto text-center'>I&lsquo;m committed to helping you balance deep emotional work with intentional actions that create the change you seek.</p>
+                    <p className='text-white text-[25px] sm:text-[28px] sm:leading-[51.2px] font-alethia font-normal max-w-[1000px] mx-auto text-center' data-aos="zoom-in">I&lsquo;m committed to helping you balance deep emotional work with intentional actions that create the change you seek.</p>
                 </div>
             </div>
 
             {/* Microdose Muse */}
             <div className='bgmicrodosemuse py-[50px] md:pb-[74px] md:pt-[110px] w-full px-4 md:px-10'>
-                <div className='mb-8 md:mb-20 w-full max-w-[1017px] mx-auto grid grid-cols-1 sm:grid-cols-2 gap-8 md:gap-[60px]'>
+                <div className='mb-8 md:mb-20 w-full max-w-[1017px] mx-auto grid grid-cols-1 sm:grid-cols-2 gap-8 md:gap-[60px]'data-aos="fade-up">
                     <Image src='/assets/image1.svg' alt='image' width={478} height={294} />
                     <Image src='/assets/image2.svg' alt='image' width={478} height={294} />
                 </div>
-                <h2 className='text-[16px] sm:text-[24px] font-normal sm:leading-[38px] text-white text-center max-w-[1000px] mx-auto font-inter'>Outside of mushrooms and exploring the inner terrains of consciousness, I love gardening, espresso, being a Mama to baby boy Sol, and adventuring with my life partner Basil.</h2>
-                <h2 className='mt-4 text-[#DCB88C] text-[20px] sm:text-[24px] leading-[38px] font-medium text-center'>-Microdose Muse</h2>
+                <h2 className='text-[16px] sm:text-[24px] font-normal sm:leading-[38px] text-white text-center max-w-[1000px] mx-auto font-inter'data-aos="fade-up">Outside of mushrooms and exploring the inner terrains of consciousness, I love gardening, espresso, being a Mama to baby boy Sol, and adventuring with my life partner Basil.</h2>
+                <h2 className='mt-4 text-[#DCB88C] text-[20px] sm:text-[24px] leading-[38px] font-medium text-center'data-aos="fade-up">-Microdose Muse</h2>
             </div>
 
             <Thrive />
