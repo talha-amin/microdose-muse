@@ -26,7 +26,7 @@ const Footer = () => {
         </div>
         <div className='h-[1px] w-full max-w-[1600px] mx-auto bg-[#FFFFFF4D]'></div>
         <p className='pt-[9px] pb-[10.5px] text-white text-[12px] leading-[18px] font-roboto font-normal'>
-          @Copyrigh<span className='font-bold font-roboto'>MICRODOSE MUSE</span>
+          @Copyright<span className='font-bold font-roboto'>MICRODOSE MUSE</span>
         </p>
       </div>
     </div>
